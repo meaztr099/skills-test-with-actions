@@ -59,9 +59,9 @@ def test_get_nth_fibonacci_one():
 
 
 def test_get_nth_fibonacci_ten():
-     """Test with n=10."""
+     """Test with n=11."""
      # Arrange
-     n = 10
+     n = 11
 
      # Act
      result = get_nth_fibonacci(n)
